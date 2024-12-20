@@ -1,13 +1,21 @@
-## Chú Khỉ Bùn nè 👋
+## Chú Khỉ Bùn nè 👋 ! 👉 https://media.giphy.com/media/OYJ2kbvdTPW6I/giphy.gif 👈
 Chào mừng bạn đến với trang GitHub của tôi! 🎉
 
 ## 🌟 Về bản thân tôi 1 xíu
 - 🧑‍💻 Tôi là một người yêu thích công nghệ, đặc biệt quan tâm đến **lập trình** và **phân tích dữ liệu**.
 - 📚 Hiện tại, tôi đang học hỏi và phát triển các kỹ năng về **Python**, **SQL**, **Power BI** và **GitHub**.
+  
+## 🚀 Kỹ năng
+| Công nghệ       | Mức độ thành thạo  |
+|-----------------|--------------------|
+| Python          | ⭐⭐⭐☆☆        
+| SQL             | ⭐☆☆☆             
+| Power BI        | ⭐☆☆☆☆           
+| Git             | ⭐☆☆☆☆          
 
 ## 🔭 Mục tiêu sử dụng GitHub
 - Xây dựng các dự án mã nguồn mở.
-- Chia sẻ kiến thức, tài liệu học tập.
+- Học và chia sẻ kiến thức, tài liệu học tập.
 - Kết nối với cộng đồng lập trình viên và những người cùng sở thích.
 
 ## 🚀 Liên hệ
@@ -15,17 +23,5 @@ Chào mừng bạn đến với trang GitHub của tôi! 🎉
 - 🌐 Website cá nhân: Tạm thời là chưa cóa nha <(O.O)>
 
 Cảm ơn bạn đã ghé thăm! 🌈
-<!--
-**ChuKhiBun/ChuKhiBun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _"Mù công nghệ nhưng mê Code"_ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
